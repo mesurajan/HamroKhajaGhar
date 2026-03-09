@@ -1,0 +1,29 @@
+p {
+    color:blue;
+    font-size: 12px;
+}
+
+
+
+h1{
+    color:chartreuse;
+    font-size: 30px;
+}
+
+header{
+    background-image: url('Rectangle10.jpg');
+    height: 450px;
+    padding-top: 20px;
+    margin-top: 0px;
+  
+}
+.ShopNow{
+    color: whitesmoke;
+    background:darkblue;
+    padding-left: 16px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-right: 16px;
+    border-radius: 12px;
+    
+}
